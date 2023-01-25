@@ -32,7 +32,7 @@
 
 ## sałatki
 
-<img src = "zdjecia/sonny-mauricio-yhc4pSbl01A-unsplash.jpg" width = 300 >
+<img src = "pizzeria/ivan-torres-MQUqbmszGGM-unsplash.jpg" width = 300 >
 
 |lp |Nazwa                                                   | cena  | 
 |---|--------------------------------------------------------|------|
