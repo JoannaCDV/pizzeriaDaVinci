@@ -32,14 +32,14 @@
 
 ## sałatki
 
-<img src = "img/olayinka-babalola-r01ZopTiEV8-unsplash.jpg" width = 300 >
+<img src = "zdjecia/sonny-mauricio-yhc4pSbl01A-unsplash.jpg" width = 300 >
 
 |lp |Nazwa                                                   | cena  | 
 |---|--------------------------------------------------------|------|
-|1. | CEZAR - sałata, oliwa, pomidor, cebula, mozarella      | 2 zł |
-|2. |GRECKA - pomidor, ogórki, papryka, sałata, feta         | 3 zł | 
-|3. |RUKOLOWA - rukola, pomidor, orzechy włoskie, feta       | 2 zł | 
-|4. |TUŃCZYKOWA - sałata, tuńczyk, ogórek, kukurydza         | 2 zł | 
+|1. |CEZAR - sałata, oliwa, pomidor, cebula, mozarella      | 22 zł |
+|2. |GRECKA - pomidor, ogórki, papryka, sałata, feta         | 23 zł | 
+|3. |RUKOLOWA - rukola, pomidor, orzechy włoskie, feta       | 22 zł | 
+|4. |TUŃCZYKOWA - sałata, tuńczyk, ogórek, kukurydza         | 22 zł | 
 
 
 
