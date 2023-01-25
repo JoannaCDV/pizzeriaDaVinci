@@ -17,6 +17,32 @@
 |9. |EL TONO  - sos, podwójny ser, tuńczyk,  papryka.        |        | 27 zł| 28 zł | 29 zł|
 |10. |DAGRASSO  - sos, ser, salami, papryka, rukola, oliwki, |        | 27 zł| 28 zł | 29 zł|
 
+## Pizze wegetariańskie 
+
+<img src = "pizzeria/yoav-aziz-1uQQrwzjKms-unsplash.jpg" width = 300 >
+
+|lp |Pizza                                                   | rozmiar| 30cm | 40 cm | 50 cm|
+|---|--------------------------------------------------------|--------|------|-------|------|
+|1. |MARGHERITA - sos, ser, oregano.                         |        | 20zł | 21 zł | 22zł |
+|2. |CAPRICIOSA - sos, ser, pieczarki, szynka, oregano.      |        | 22 zł| 23 zł | 24 zł|
+|3. |4SERY - sos, mozarella, gorgonzola, parmezan, ementaler |        | 23 zł| 24 zł | 25 zł|
+|4. |HAWAJSKA WEGE - sos, ser, ananas,                       |        | 24 zł| 25 zł | 26 zł|
+|5. |MILANO WEGE  - sos, podwójny ser, papryka.              |        | 25 zł| 26 zł | 27 zł|
+
+
+## sałatki
+
+<img src = "pizzeria/ivan-torres-MQUqbmszGGM-unsplash.jpg" width = 300 >
+
+|lp |Nazwa                                                   | cena  | 
+|---|--------------------------------------------------------|------|
+|1. |CEZAR - sałata, oliwa, pomidor, cebula, mozarella      | 22 zł |
+|2. |GRECKA - pomidor, ogórki, papryka, sałata, feta         | 23 zł | 
+|3. |RUKOLOWA - rukola, pomidor, orzechy włoskie, feta       | 22 zł | 
+|4. |TUŃCZYKOWA - sałata, tuńczyk, ogórek, kukurydza         | 22 zł | 
+
+
+
 ## sosy 
 
 <img src = "pizzeria/mahyar-motebassem-pGA4zHvpo5E-unsplash.jpg" width = 300 >
