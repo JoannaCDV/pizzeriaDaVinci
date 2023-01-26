@@ -1,3 +1,7 @@
-zespół
+# zespół
 
-tressc 
+## kierownik
+
+## dostawca
+
+## grafik
