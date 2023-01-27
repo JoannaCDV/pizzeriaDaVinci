@@ -1,4 +1,6 @@
-# MAgiczny sekretny przepis na ciasto do pizzy
+# SEKRETNY PRZEPIS NA CIASTO DO PIZZY
+
+# DO NOT READ
 
 SKŁADNIKI
 
