@@ -23,16 +23,16 @@
 
 |lp |Pizza                                                     | rozmiar| 30cm | 40 cm | 50 cm|
 |---|----------------------------------------------------------|--------|------|-------|------|
-|1. |MARGHERITA - sos, ser, oregano.                           |        | 20zł | 21 zł | 22zł |
-|2. |CAPRICIOSA - sos, ser, pieczarki, szynka, oregano.        |        | 22 zł| 23 zł | 24 zł|
-|3. |4SERY - sos, mozarella, gorgonzola, parmezan, ementaler   |        | 23 zł| 24 zł | 25 zł|
-|4. |HAWAJSKA WEGE - sos, ser, ananas,                         |        | 24 zł| 25 zł | 26 zł|
-|5. |MILANO WEGE  - sos, podwójny ser, papryka.                |        | 25 zł| 26 zł | 27 zł|
-|6. |ŁOSOŚ - sos, podwójny ser, łosoś, cukinia.                |        | 28 zł| 29 zł | 30 zł|
-|7. |GÓRALSKA - sos, podwójny ser, oscypek, żurawina.          |        | 28 zł| 29 zł | 30 zł|
-|8. |WŁOSKA  - sos, podwójny ser, pomidorki koktajlowe, rukola |        | 29 zł| 30 zł | 32 zł|
-|9. |FLORENCKA  - sos, ser feta, szpinak                       |        | 29 zł| 30 zł | 32 zł|
-|10. |HAWAJSKA - sos, ser, camembert, ananas, brokuł           |        | 29 zł| 30 zł | 32 zł|
+|1. |MARGHERITA - sos, ser, oregano.                           |        | 30zł | 31 zł | 32zł |
+|2. |CAPRICIOSA - sos, ser, pieczarki, szynka, oregano.        |        | 32 zł| 33 zł | 34 zł|
+|3. |4SERY - sos, mozarella, gorgonzola, parmezan, ementaler   |        | 33 zł| 34 zł | 35 zł|
+|4. |HAWAJSKA WEGE - sos, ser, ananas,                         |        | 34 zł| 35 zł | 36 zł|
+|5. |MILANO WEGE  - sos, podwójny ser, papryka.                |        | 35 zł| 36 zł | 37 zł|
+|6. |ŁOSOŚ - sos, podwójny ser, łosoś, cukinia.                |        | 38 zł| 39 zł | 40 zł|
+|7. |GÓRALSKA - sos, podwójny ser, oscypek, żurawina.          |        | 38 zł| 39 zł | 40 zł|
+|8. |WŁOSKA  - sos, podwójny ser, pomidorki koktajlowe, rukola |        | 39 zł| 40 zł | 42 zł|
+|9. |FLORENCKA  - sos, ser feta, szpinak                       |        | 39 zł| 40 zł | 42 zł|
+|10. |HAWAJSKA - sos, ser, camembert, ananas, brokuł           |        | 39 zł| 40 zł | 42 zł|
 
 ## Sałatki 
 
