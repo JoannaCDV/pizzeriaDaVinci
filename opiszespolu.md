@@ -1,4 +1,4 @@
-# zespół
+# ZESPÓŁ
 
 ## kierownik
 
