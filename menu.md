@@ -60,6 +60,7 @@
 |5. |OSTRY                                                   |        | 3 zł | 6 zł  | 
 
 
+<img src = "pizza/calum-lewis-vA1L1jRTM70-unsplash.jpg" width = 400 >
 
 ## dodatki
 
