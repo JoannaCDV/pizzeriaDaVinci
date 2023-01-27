@@ -6,16 +6,16 @@
 
 |lp |Pizza                                                   | rozmiar| 30cm | 40 cm | 50 cm|
 |---|--------------------------------------------------------|--------|------|-------|------|
-|1. |MARGHERITA - sos, ser, oregano.                         |        | 20zł | 21 zł | 22zł |
-|2. |CAPRICIOSA - sos, ser, pieczarki, szynka, oregano.      |        | 22 zł| 23 zł | 24 zł|
-|3. |SALAMI - sos, salami, ser, oregano.                     |        | 23 zł| 24 zł | 25 zł|
-|4.  |HAWAJSKA - sos, ser, ananas, szynka.                    |        | 24 zł| 25 zł | 26 zł|
-|5. |MILANO  - sos, podwójny ser, salami jalapeno, papryka.  |        | 25 zł| 26 zł | 27 zł|
-|6.  |WIEJSKA  - sos, ser, ogórek, papryka, szynka,           |        | 25 zł| 26 zł | 27 zł|
-|7.  |POLLO  - sos, podwójny ser, salami, kurczak.            |        | 26 zł| 27 zł | 28 zł|
-|8.  |KEBAB  - sos, podwójny ser, salami, kurczak, cebula.    |        | 26 zł| 27 zł | 28 zł|
-|9.  |EL TONO  - sos, podwójny ser, tuńczyk,  papryka.        |        | 27 zł| 28 zł | 29 zł|
-|10. |DAGRASSO  - sos, ser, salami, papryka, rukola, oliwki, |        | 27 zł| 28 zł | 29 zł|
+|1. |MARGHERITA - sos, ser, oregano.                         |        | 30zł | 31 zł | 32zł |
+|2. |CAPRICIOSA - sos, ser, pieczarki, szynka, oregano.      |        | 32 zł| 33 zł | 34 zł|
+|3. |SALAMI - sos, salami, ser, oregano.                     |        | 33 zł| 34 zł | 35 zł|
+|4.  |HAWAJSKA - sos, ser, ananas, szynka.                    |        | 34 zł| 35 zł | 36 zł|
+|5. |MILANO  - sos, podwójny ser, salami jalapeno, papryka.  |        | 35 zł| 36 zł | 37 zł|
+|6.  |WIEJSKA  - sos, ser, ogórek, papryka, szynka,           |        | 35 zł| 36 zł | 37 zł|
+|7.  |POLLO  - sos, podwójny ser, salami, kurczak.            |        | 36 zł| 37 zł | 38 zł|
+|8.  |KEBAB  - sos, podwójny ser, salami, kurczak, cebula.    |        | 36 zł| 37 zł | 38 zł|
+|9.  |EL TONO  - sos, podwójny ser, tuńczyk,  papryka.        |        | 37 zł| 38 zł | 39 zł|
+|10. |DAGRASSO  - sos, ser, salami, papryka, rukola, oliwki, |        | 37 zł| 38 zł | 39 zł|
 
 ## Pizze wegetariańskie 
 
