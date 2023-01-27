@@ -18,6 +18,8 @@ Szef Dyni
 
 ## kelnerka 
 
+<img src = "pizza/dahiana-waszaj-XQWfro4LrVs-unsplash.jpg" width = 500 >
+
 Anastazja
 
 ## kelnerka
