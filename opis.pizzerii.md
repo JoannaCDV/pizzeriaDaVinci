@@ -1,4 +1,6 @@
-Pizzeria
+<img src = "pizza/girl-with-red-hat-aTEX9xTyevY-unsplash.jpg" width = 500 >
+
+# Pizzeria
 
 Nasza pizzeria to prototyp atlantydy wśród pizzeri
 
