@@ -5,3 +5,11 @@
 ## dostawca
 
 ## grafik
+
+## kucharz
+
+## kelnerka 
+
+## kelnerka
+
+## kelner 
