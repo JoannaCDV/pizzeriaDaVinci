@@ -7,6 +7,8 @@ Joanna Wróżka
 
 ## dostawca
 
+<img src = "pizza/girl-with-red-hat-aTEX9xTyevY-unsplash.jpg" width = 500 >
+
 Kopciuszek 
 
 ## grafik
