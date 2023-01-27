@@ -34,7 +34,7 @@
 |9. |FLORENCKA  - sos, ser feta, szpinak                       |        | 29 zł| 30 zł | 32 zł|
 |10. |HAWAJSKA - sos, ser, camembert, ananas, brokuł           |        | 29 zł| 30 zł | 32 zł|
 
-## sałatki
+## sałatki 
 
 <img src = "pizzeria/ivan-torres-MQUqbmszGGM-unsplash.jpg" width = 300 >
 
