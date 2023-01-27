@@ -1,6 +1,7 @@
 # ZESPÓŁ
 
 ## kierownik
+<img src = "pizza/kitera-dent-z4ky2zXIjDM-unsplash.jpg" width = 500 >
 
 Joanna Wróżka
 
