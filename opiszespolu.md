@@ -35,8 +35,4 @@ Anastazja
 
 Zła Macocha
 
-## kelner 
 
-<img src = "pizza/tamara-malaniy-4ec2BK0HRX8-unsplash.jpg" width = 500 >
-
-Książe z Bajki 
