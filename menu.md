@@ -56,6 +56,22 @@
 |5. |OSTRY                                                   |        | 3 zł | 6 zł  | 
 
 
+
+## dodatki
+
+cukinia - 5zł
+
+karczochy - 6 zł
+
+krewetki - 10 zł
+
+rukola - 4 zł
+
+kukurydza - 4 zł
+
+pieczarki - 5 zł
+
+
 ## napoje 
 
 <img src = "pizzeria/peter-bravo-de-los-rios-OklpRh8-Sns-unsplash.jpg" width = 300 >
