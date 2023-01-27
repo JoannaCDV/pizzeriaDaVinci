@@ -1,4 +1,4 @@
-# menu 
+# mMENU
 
 ## Pizze klasyczne
 
@@ -34,7 +34,7 @@
 |9. |FLORENCKA  - sos, ser feta, szpinak                       |        | 29 zł| 30 zł | 32 zł|
 |10. |HAWAJSKA - sos, ser, camembert, ananas, brokuł           |        | 29 zł| 30 zł | 32 zł|
 
-## sałatki 
+## Sałatki 
 
 <img src = "pizzeria/ivan-torres-MQUqbmszGGM-unsplash.jpg" width = 300 >
 
@@ -47,7 +47,7 @@
 
 
 
-## sosy 
+## Sosy 
 
 <img src = "pizzeria/mahyar-motebassem-pGA4zHvpo5E-unsplash.jpg" width = 300 >
 
@@ -79,7 +79,7 @@ kukurydza - 4 zł
 pieczarki - 5 zł
 
 
-## napoje 
+## Napoje 
 
 <img src = "pizzeria/peter-bravo-de-los-rios-OklpRh8-Sns-unsplash.jpg" width = 300 >
 
