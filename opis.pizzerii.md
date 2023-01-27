@@ -1,3 +1,3 @@
 Pizzeria
 
-opis
+Nasza pizzeria to prototyp atlantydy wśród pizzeri
