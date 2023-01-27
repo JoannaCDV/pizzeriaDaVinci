@@ -2,7 +2,7 @@
 
 ## Pizze klasyczne
 
-<img src = "pizzeria/quin-engle-lHUdfk5WGXc-unsplash.jpg" width = 300 >
+<img src = "pizzeria/quin-engle-lHUdfk5WGXc-unsplash.jpg" width = 400 >
 
 |lp |Pizza                                                   | rozmiar| 30cm | 40 cm | 50 cm|
 |---|--------------------------------------------------------|--------|------|-------|------|
@@ -19,7 +19,7 @@
 
 ## Pizze wegetariańskie 
 
-<img src = "pizzeria/yoav-aziz-1uQQrwzjKms-unsplash.jpg" width = 300 >
+<img src = "pizzeria/yoav-aziz-1uQQrwzjKms-unsplash.jpg" width = 400 >
 
 |lp |Pizza                                                     | rozmiar| 30cm | 40 cm | 50 cm|
 |---|----------------------------------------------------------|--------|------|-------|------|
@@ -36,7 +36,7 @@
 
 ## Sałatki 
 
-<img src = "pizzeria/ivan-torres-MQUqbmszGGM-unsplash.jpg" width = 300 >
+<img src = "pizzeria/ivan-torres-MQUqbmszGGM-unsplash.jpg" width = 400 >
 
 |lp |Nazwa                                                   | cena  | 
 |---|--------------------------------------------------------|------|
@@ -49,7 +49,7 @@
 
 ## Sosy 
 
-<img src = "pizzeria/mahyar-motebassem-pGA4zHvpo5E-unsplash.jpg" width = 300 >
+<img src = "pizzeria/mahyar-motebassem-pGA4zHvpo5E-unsplash.jpg" width = 400 >
 
 |lp |Nazwa                                                   | waga   | 50g  | 100g |
 |---|--------------------------------------------------------|--------|------|-------|
@@ -81,7 +81,7 @@ pieczarki - 5 zł
 
 ## Napoje 
 
-<img src = "pizzeria/peter-bravo-de-los-rios-OklpRh8-Sns-unsplash.jpg" width = 300 >
+<img src = "pizzeria/peter-bravo-de-los-rios-OklpRh8-Sns-unsplash.jpg" width = 400 >
 
 |lp |Napoje                                                   | pojemność| 0,25l | 0,5l cm | 
 |---|---------------------------------------------------------|----------|-------|---------|
