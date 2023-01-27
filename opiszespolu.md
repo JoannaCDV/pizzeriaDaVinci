@@ -13,9 +13,13 @@ Kopciuszek
 
 ## grafik
 
+<img src = "pizza/olga-guryanova-Th-i7Z1ufK8-unsplash.jpg" width = 500 >
+
 Mysz 1
 
 ## kucharz
+
+<img src = "pizza/hennie-stander-aWwFbn0ZW6A-unsplash.jpg" width = 500 >
 
 Szef Dyni
 
