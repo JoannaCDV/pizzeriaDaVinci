@@ -53,11 +53,11 @@
 
 |lp |Nazwa                                                   | waga   | 50g  | 100g |
 |---|--------------------------------------------------------|--------|------|-------|
-|1. | KETCHUP                                                |        | 2 zł | 5 zł  | 
-|2. |CZOSNKOWY                                               |        | 3 zł | 6 zł  | 
-|3. |SŁODKO KWAŚNY                                           |        | 2 zł | 5 zł  | 
-|4. |KOPERKOWY                                               |        | 2 zł | 5 zł  | 
-|5. |OSTRY                                                   |        | 3 zł | 6 zł  | 
+|1. | KETCHUP                                                |        | 5 zł | 6 zł  | 
+|2. |CZOSNKOWY                                               |        | 5 zł | 6 zł  | 
+|3. |SŁODKO KWAŚNY                                           |        | 7 zł | 8 zł  | 
+|4. |KOPERKOWY                                               |        | 7 zł | 8 zł  | 
+|5. |OSTRY                                                   |        | 7 zł | 8 zł  | 
 
 
 ## Dodatki
